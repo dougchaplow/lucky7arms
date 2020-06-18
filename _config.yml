@@ -1,0 +1,23 @@
+app:
+  title: 'Lucky 7 Arms'
+  name: 'Lucky 7 Arms'
+  author: 'nra4evr'
+  description: 'Buy guns and ammo. Save World.'
+  keywords: 'firearms, ammo'
+  email: 'service@lucky7arms.com'
+
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    disable: true
+
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - serve
+
+
+
